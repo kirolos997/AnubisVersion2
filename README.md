@@ -8,7 +8,10 @@ This is a part of graduation project introduced by a team of Ain shams universit
 
 # New added features in this version:
 -	A fast executed for python code: in this feature, the editor user will enter a code for a single function that would be automatically wrapped inside a program that has a main function that will call the function. The user would be asked to provide a list of parameters to be passed from the main function to the called function.
+<img width="607" alt="Screen Shot 2020-09-09 at 11 49 47 PM" src="https://user-images.githubusercontent.com/47366286/92658613-2df38780-f2f7-11ea-8c16-f114412960b5.png">
+
 -	Support for C# format: the editor automatically recognizes which format to use based on the file extension selected/opened and display it.
+<img width="683" alt="Screen Shot 2020-09-09 at 11 52 32 PM" src="https://user-images.githubusercontent.com/47366286/92658883-9478a580-f2f7-11ea-9fa0-b5f01900a80d.png">
 -	Fixing Issues: all old issues including variables name, functions names, bad comments and bad resturcturing in last version are fixed in this new version and we will big into these details later in the report file including with the repo (comment, restructure, naming,…)
 -	Save As and Save: fixing issues in save button and introduce new feature as saveAs to support different ways (format) to save a file.
 
