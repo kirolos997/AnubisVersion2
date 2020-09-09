@@ -23,3 +23,19 @@ This is a part of graduation project introduced by a team of Ain shams universit
 
 # Report
 - The repo includes a fully detailed reports showing:**Class Diagrram**, **Sequence Diagrram**, **Use Case**, **SRS**, **Screenshots for the running program with outputs**, **Fixed issues**, **Full descreption about each function and class in the program** and **Some evaluation metrics(Line of code)**,
+
+## Requirements 
+- Python3
+- Pyserial (**Important for detecting ports section**)
+- PYQT5
+
+## Install Requirements 
+(It's recommended to create virtual env before installing the requirements)
+- pip3 install -r requirements.txt
+### **NOTE**
+If python3 is the default use this: 
+- pip install -r requirements.txt 
+
+## Run
+- Clone the repo .
+- Be sure you exist in the repo folder after cloning .
